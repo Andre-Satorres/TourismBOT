@@ -4,10 +4,10 @@ import random
 
 print('this is my twitter bot')
 
-CONSUMER_KEY = 'nMgEJQfInWkiOLlFu1Hu8zDHy'
-CONSUMER_SECRET = 'pCIjHrBmZVoxPQOlJ1cvNM8VSzXyTUwwIxHCH8Gs6x7h9YPhqe'
-ACCESS_KEY = '1253172338046185473-hxMfZeublyHY4TMdBihhZOunfHIIZ0'
-ACCESS_SECRET = 'TTry8FG2U46mr5N8e6S8UN3sSJhJ4PAfDoDNU740NMU3t'
+CONSUMER_KEY = '****'
+CONSUMER_SECRET = '********'
+ACCESS_KEY = '*********'
+ACCESS_SECRET = '***********'
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
