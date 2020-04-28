@@ -10,6 +10,8 @@ A Twitter BOT that displays images/locations of good places to travel
 - Take the keys and replace then by the "******" sequences in the code.
 
 - If you want to add more images, just download them (preferably with less then 3mb) and increment the random controller variavel in the code.
+  ```
+  random.randint(1, 25) --> there are 25 images. If you add one, increase it to 26, an so on.
 
 - Nice!! Now just run the bot with
   ``` 
